@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 #
 # Author: Maximillian Marciel
-# Assignment: 6
 # Description:
 # Simple script to execute the MyPL interpreter.
 #----------------------------------------------------------------------
