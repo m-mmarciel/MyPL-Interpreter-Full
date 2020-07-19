@@ -1,5 +1,4 @@
 # Author: Maximillian Marciel
-# Course: CPSC326, Spring 2019
 # Description: A basic lexer for the language "MyPL" which
 #              evaluates input in MyPL and tokenizes it,
 #              returning tokens as necessary and errors if needed.
